@@ -7,7 +7,7 @@ En este ejercicio se pide realizar un script que solicite y visualice una serie 
 El Objetivo principal de este ejercicio es el uso de bucles.
 
 ## URL para ver el resultado 🌐
-
+https://sergioalvarezpro.github.io/Distinto-Cero/
 
 ## Instalación 🛠️
 Este proyecto no requiere de instalación. Puedes ver el resultado haciendo click en el enlace del apartado anterior "URL para ver el resultado".
